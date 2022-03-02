@@ -11,3 +11,4 @@ This api accepts GET and POST methods. Use GET method to retrieve all the hotels
 - python manage.py runserver
   
   `This project uses default sqlite3 database so there is no need to setup database configs.`
+  `All the dependencies are mentioned in requirements.txt file`
